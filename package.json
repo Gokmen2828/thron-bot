@@ -1,0 +1,44 @@
+{
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "WİTHİN BOT",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "common-tags": "^1.8.0",
+    "crypto": "^1.0.1",
+    "discord-anti-spam-tr": "^0.7.4",
+    "discord.js": "^12.3.1",
+    "express": "^4.17.1",
+    "ffmpeg": "^0.0.4",
+    "http": "^0.0.0",
+    "jimp": "^0.12.1",
+    "moment": "^2.27.0",
+    "node-superfetch": "^0.1.10",
+    "path": "^0.12.7",
+    "quick.db": "^7.1.1",
+    "simple-youtube-api": "^5.2.1",
+    "snekfetch": "^4.0.4",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "^2.1.4"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
+  
